@@ -1,0 +1,26 @@
+_repo: A-Prince-of-AnahuacA-Histori-traditional-Story-Antedating-the-Aztec-Empire_41698
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41698-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Porter, James A.
+    birthdate: 1836
+    deathdate: 1897
+    gutenberg_agent_id: '41306'
+    url: http://www.gutenberg.org/2009/agents/41306
+description: ''
+gutenberg_issued: '2012-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- History -- To 1519 -- Fiction'
+- !lcc 'PS'
+title: 'A Prince of Anahuac: A Histori-traditional Story Antedating the Aztec Empire'
+url: http://www.gutenberg.org/ebooks/41698
